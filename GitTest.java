@@ -2,7 +2,9 @@ package gitTest;
 
 public class GitTest {
 	
-	System.out.println("Hello Java");
+	System.out.println("Hello world Java");
+	
+	
 	}
 
 }
